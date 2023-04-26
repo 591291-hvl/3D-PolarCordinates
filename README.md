@@ -1,3 +1,3 @@
 # 3D-PolarCordinates
  
-![restult](/Projects/3D-PolarCordinates/images/3dRotationFigure.gif)
+![restult](/images/3dRotationFigure.gif)
